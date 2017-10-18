@@ -1,0 +1,9 @@
+/Users/ethanh5/Projects/BMICalc./BMICalc./obj/iPhoneSimulator/Debug/BMICalc..csproj.CoreCompileInputs.cache
+/Users/ethanh5/Projects/BMICalc./BMICalc./bin/iPhoneSimulator/Debug/BMICalc..exe
+/Users/ethanh5/Projects/BMICalc./BMICalc./bin/iPhoneSimulator/Debug/BMICalc..pdb
+/Users/ethanh5/Projects/BMICalc./BMICalc./obj/iPhoneSimulator/Debug/BMICalc..exe
+/Users/ethanh5/Projects/BMICalc./BMICalc./obj/iPhoneSimulator/Debug/BMICalc..pdb
+/Users/ethanh5/Projects/BMICalc./BMICalc./obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ethanh5/Projects/BMICalc./BMICalc./obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
+/Users/ethanh5/Projects/BMICalc./BMICalc./obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/ethanh5/Projects/BMICalc./BMICalc./obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
